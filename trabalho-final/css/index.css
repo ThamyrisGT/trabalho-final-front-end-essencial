@@ -1,0 +1,36 @@
+div.container h3{
+    padding-top: 100px; 
+    text-align: center;
+    color: var(--corPrincipal);
+}
+
+div.container p{
+    margin-top: 20px;
+    text-align: center;
+    color: var(--corPrincipal);
+}
+
+div.card{
+    margin-top: 20px;
+    width: 300px;
+    height: 370px;
+    text-align: center;
+}
+
+div.card img{
+    width: 300px;
+    height: 175px;
+}
+
+div.foto-fixed{
+    margin-top: 50px;
+    width:100%; 
+    height:600px; 
+    background:url(../fotos/imagem-fundo.jpg) no-repeat center; 
+    background-size:cover; 
+    background-attachment:fixed;
+}
+
+
+
+

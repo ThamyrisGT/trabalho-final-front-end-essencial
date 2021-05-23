@@ -1,0 +1,62 @@
+div.container h3{
+    padding-top: 100px; 
+    color: var(--corPrincipal);
+}
+
+#primeiro-paragrafo{
+    padding-left: 0;
+}
+
+#row{
+    margin-left: 0;
+}
+.imagem-p{
+    width: 360px;
+    height: 300px;
+}
+
+#primeira-linha{
+    margin-top: 25px;
+}
+
+#primeira-imagem{
+    padding-left:0;
+    padding-right: 0;
+
+}
+#primeiro-texto{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+#segunda-imagem{
+   padding: 0;
+   padding-left: 15px;
+   
+}
+
+#segunda-linha{
+    margin-top: 25px;
+}
+
+#segundo-texto{
+    padding-left:15px;
+    display: flex;
+    justify-content:center;
+}
+
+#info{
+    margin-top: 35px;
+    border-bottom: 6px solid var(--corPrincipal);
+}
+
+.slider{
+    border-top:6px solid var(--corPrincipal); 
+    border-bottom:6px solid var(--corPrincipal);
+    margin-top: 50px;
+}
+
+
+

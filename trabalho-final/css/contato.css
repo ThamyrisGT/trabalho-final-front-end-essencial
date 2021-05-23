@@ -1,0 +1,16 @@
+h2{
+    padding-top: 30px;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+#botao {
+   padding-left: 180px;
+}
+
+textarea{
+    height:100px;
+    resize: none;
+}
